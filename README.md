@@ -46,7 +46,7 @@ For Production, we recommend:
 
 ## Contributors
 
-View full list of our [contributors](https://github.com/ever-co/opensaas/graphs/contributors).
+View full list of our [contributors](https://github.com/ever-co/saas/graphs/contributors).
 
 ## Contact Us
 
@@ -56,7 +56,7 @@ View full list of our [contributors](https://github.com/ever-co/opensaas/graphs/
 -   [Spectrum Community](https://spectrum.chat/ever)
 -   [Gitter Chat](https://gitter.im/ever-co/ever)
 -   [CodeMentor](https://www.codementor.io/evereq)
--   For business inquiries: <mailto:opensaas@ever.co>
+-   For business inquiries: <mailto:saas@ever.co>
 -   Please report security vulnerabilities to <mailto:security@ever.co>
 
 ## Security
@@ -71,7 +71,7 @@ In a production setup, all client-side to server-side (backend, APIs) communicat
 
 This software is available under following license:
 
--   [Ever OpenSaaS Platform™ Community Edition](https://github.com/ever-co/opensaas/blob/develop/LICENSE.md)
+-   [Ever OpenSaaS Platform™ Community Edition](https://github.com/ever-co/saas/blob/develop/LICENSE.md)
 
 #### Please see [LICENSE.md](LICENSE.md) for more information on licenses.
 
