@@ -1,6 +1,6 @@
 # Open-Source OpenSaaS Platform
 
-Ever® OpenSaaS Platform™ is an Open-Source solution build with TypeScript that allows to quickly set up a full featured SaaS offering.
+Ever® OpenSaaS™ Platform is an Open-Source solution build with TypeScript that allows to quickly set up a full featured SaaS offering.
 
 It handles following aspects of modern SaaS solutions:
 
