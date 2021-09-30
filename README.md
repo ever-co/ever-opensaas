@@ -16,14 +16,16 @@ It handles following aspects of modern SaaS solutions:
 
 - Dashboard of SaaS operation
 - Tenants management
-- Users / Teams (Groups) management with Roles & Permissions. Invite system
+- Users / Teams (Groups) management with Roles & Permissions. Invite system.
 - Authentication / Authorization (Sign Up, Sign In, Password Reset, Social Auth, etc)
 - Editions / Pricing management
 - Features management
-- Billing, Subscriptions & Payments - monetise SaaS with billing system (Stripe / Chargebee / other integrations)
+- Billing, Subscriptions & Payments - monetize SaaS with billing system (Stripe / Chargebee / other integrations)
 - Health / Alerts
 - Audit Logs
 - Email Notifications
+- Events (what happens, such as sign ups, user upgraded subscription, user closed account, etc)
+- Feedback / Chat integrations
 - Reports
 - Prebuilt Components
 - And many more
