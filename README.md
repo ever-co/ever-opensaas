@@ -9,7 +9,7 @@ It handles following aspects of modern SaaS solutions:
 - Dashboard of SaaS operation
 - Tenants management
 - Users / Team management with Roles & Permissions.
-- Editions management
+- Editions / Pricing management
 - Features management
 - Subscriptions & Payments
 - Health / Alerts
