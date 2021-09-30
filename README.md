@@ -16,19 +16,21 @@ It handles following aspects of modern SaaS solutions:
 
 - Dashboard of SaaS operation
 - Tenants management
-- Users / Teams (Groups) management with Roles & Permissions. Invite system.
+- Users / Teams (Groups) management with Roles & Permissions. User Impersonation.
+- Users Invite system
+- Users Profiles
 - Authentication / Authorization (Sign Up, Sign In, Password Reset, Social Auth, etc)
-- Editions / Pricing management
+- Editions (Plans) / Pricing management
 - Features management
-- Billing, Subscriptions & Payments - monetize SaaS with billing system (Stripe / Chargebee / other integrations)
+- Billing, Subscriptions & Payments - monetize SaaS with billing system ([Stripe](https://stripe.com) / [Paddle](https://paddle.com) / [Chargebee](https://www.chargebee.com) / other integrations)
 - Health / Alerts
 - Audit Logs
-- Email Notifications
-- Events (what happens, such as sign ups, user upgraded subscription, user closed account, etc)
-- Feedback / Chat integrations
+- Notifications (Emails, SMS, Push, Slack, etc.)
+- Events (what happens, such as sign ups, user upgraded subscription, user closed account, etc.)
+- Feedback / Announcements / Chats integrations
 - Reports
 - Prebuilt Components
-- And many more
+- And many more...
 
 You are welcome to check more information about our product offers that use Ever® OpenSaaS Platform™ at **<https://ever.co>**.
 
