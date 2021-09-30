@@ -2,20 +2,31 @@
 
 Ever® OpenSaaS™ Platform is an Open-Source solution build with TypeScript that allows to quickly set up a full featured SaaS offering.
 
-The platform is **Headless** / **API-first** (REST & GraphQL) / **BaaS** (Backend-as-a-service), but also comes with Admin UI and prebuild SDKs.
+The platform is **Headless** / **API-first** (REST & GraphQL) / **BaaS** (Backend-as-a-service), but also comes with Admin UI, Client Portal UI and prebuild SDKs.
+
+## Use cases
+
+- Connect with existed single or multi-tenant software to quickly setup SaaS offering. We are using it with our own platforms (https://github.com/ever-co/ever-demand, https://github.com/ever-co/ever-gauzy, https://github.com/ever-co/ever-traduora, etc) to build own SaaS solutions.
+
+- SaaS solution boilerplate. Allows to run SaaS product in few days instead of few months.
+
+## Features
 
 It handles following aspects of modern SaaS solutions:
 
 - Dashboard of SaaS operation
 - Tenants management
-- Users / Team management with Roles & Permissions.
+- Users / Teams (Groups) management with Roles & Permissions. Invite system
+- Authentication / Authorization (Sign Up, Sign In, Password Reset, Social Auth, etc)
 - Editions / Pricing management
 - Features management
-- Subscriptions & Payments
+- Billing, Subscriptions & Payments - monetise SaaS with billing system (Stripe / Chargebee / other integrations)
 - Health / Alerts
 - Audit Logs
+- Email Notifications
 - Reports
-- and many more
+- Prebuilt Components
+- And many more
 
 You are welcome to check more information about our product offers that use Ever® OpenSaaS Platform™ at **<https://ever.co>**.
 
